@@ -62,7 +62,7 @@ The paper explaining the theory behind the Generative PointNet model, its archit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[YourUsername]/Generative-PointNet.git
+   git clone https://github.com/katayoun-kobraei/Generative-PointNet.git
    cd Generative-PointNet
    ```
 
