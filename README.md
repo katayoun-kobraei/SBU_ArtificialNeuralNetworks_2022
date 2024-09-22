@@ -63,7 +63,7 @@ Below is an overview of the five assignments, each focusing on a different aspec
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ANN-assignments.git
+   git clone https://github.com/katayoun-kobraei/ANN-assignments.git
    cd ANN-assignments
    ```
 2. Install the necessary Python packages:
