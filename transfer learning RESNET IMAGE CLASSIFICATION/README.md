@@ -1,4 +1,4 @@
-# Leaky ReLU Implementation for Image Classification
+# Artificial Neural Networks - 4th Assignment
 
 ## Overview
 
